@@ -26,8 +26,9 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 #  🏆 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Jamal-Karim&show_icons=true&theme=nightowl)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jamal-Karim&theme=nightowl&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Jamal-Karim&show_icons=true&theme=nightowl&width=400)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jamal-Karim&theme=nightowl&hide_border=false&width=400)
+
 
 ## 🤝 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JamalKarim) 
