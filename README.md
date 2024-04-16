@@ -1,4 +1,4 @@
-### Hi there, I'm Jamal! 👋
+# Hi there, I'm Jamal! 👋
 -As a pre-med student, I never imagined diving into the world of programming. <br>But a required class introduced me to this ever-growing field, and I've never looked back!<br><br>-I'm finishing my Bachelor of Science degree in Cognitive Science with a<br>specialization in UI/UX at UC San Diego which has equipped me with a unique <br>perspective on human-computer interaction and design principles.<br><br>-Alongside my studies, I've been avidly self-teaching through boot camps, <br>YouTube tutorials, and diving into documentation to make sure I am <br>always learning to stay at the forefront of technology!<br>
 
 
