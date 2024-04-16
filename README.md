@@ -1,7 +1,7 @@
 # Hi there, I'm Jamal! 👋
--As a pre-med student, I never imagined diving into the world of programming. <br>But a required class introduced me to this ever-growing field, and I've never looked back!<br><br>-I'm finishing my Bachelor of Science degree in Cognitive Science with a<br>specialization in UI/UX at UC San Diego which has equipped me with a unique <br>perspective on human-computer interaction and design principles.<br><br>-Alongside my studies, I've been avidly self-teaching through boot camps, <br>YouTube tutorials, and diving into documentation to make sure I am <br>always learning to stay at the forefront of technology!<br>
+🧠 As a pre-med student, I never imagined diving into the world of programming. <br>But a required class introduced me to this ever-growing field, and I've never looked back!<br><br>🎓 I'm finishing my Bachelor of Science degree in Cognitive Science with a<br>specialization in UI/UX at UC San Diego which has equipped me with a unique <br>perspective on human-computer interaction and design principles.<br><br>💻 Alongside my studies, I've been avidly self-teaching through boot camps, <br>YouTube tutorials, and diving into documentation to make sure I am <br>always learning to stay at the forefront of technology!<br>
 
-# 💻 Tech Stack:
+# 🚀 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,11 +25,11 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# GitHub Stats:
+#  📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Jamal-Karim&show_icons=true&theme=nightowl)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jamal-Karim&theme=nightowl&hide_border=false)
 
-## 🌐 Connect With Me!:
+## 🤝 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JamalKarim) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:1jamalkarim@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamalkarim__) 
